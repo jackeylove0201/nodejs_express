@@ -1,0 +1,29 @@
+{
+  "name": "express_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackeylove0201/nodejs_express.git"
+  },
+  "keywords": [
+    "express_first",
+    "truong_Nodejs",
+    "Blog_nodejs_express"
+  ],
+  "author": "soudn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackeylove0201/nodejs_express/issues"
+  },
+  "homepage": "https://github.com/jackeylove0201/nodejs_express#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
